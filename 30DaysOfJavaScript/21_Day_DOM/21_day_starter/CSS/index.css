@@ -1,0 +1,29 @@
+body {
+    width: auto;            
+    background-color: cornsilk;
+}
+div {
+    align-content: center;                               
+    width: auto;
+    height: 500px;
+    
+}
+h1, h2, h3 {
+    text-align: center;
+}
+ul {
+    
+    list-style-type: none;
+    background-color: aquamarine;
+    width: 500px;
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+li {
+    margin: 2px;
+    line-height: 50px;
+    background-color: antiquewhite;
+    
+}
